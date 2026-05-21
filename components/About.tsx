@@ -108,7 +108,7 @@ export default function About() {
                     <p className="text-foreground font-medium">B.E. CSE (AI & ML)</p>
                     <p className="text-sm text-muted-foreground">Sri Eshwar College of Engineering</p>
                   </div>
-                  <span className="text-primary font-semibold">8.2 CGPA</span>
+                  <span className="text-primary font-semibold">8.4 CGPA</span>
                 </div>
               </div>
             </div>
