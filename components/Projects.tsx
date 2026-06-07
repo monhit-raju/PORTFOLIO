@@ -11,7 +11,7 @@ const projects = [
     subtitle: 'AI-Based Fraud Detection System',
     description: 'Developed a machine learning fraud detection system using Random Forest and Logistic Regression to identify fraudulent activities in real time using synthetic and real-world datasets.',
     tech: ['Python', 'Machine Learning', 'Scikit-learn', 'Random Forest'],
-    liveUrl: 'https://scam-defender-frontend.vercel.app',
+    liveUrl: 'https://shield-x-alpha.vercel.app/',
     githubUrl: '',
     image: '/scam-defender.png',
     featured: true,
